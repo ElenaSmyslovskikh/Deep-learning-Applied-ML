@@ -9,7 +9,7 @@ Instructor: Evgeny Sokolov, HSE
 
 Task description:
 
-Hw1 - Adam optimizeer. Testing different architectures of neural networks.
+Hw1 - Adam optimizer. Testing different architectures of neural networks.
 
 Hw2 - Classification. Detection.
 
