@@ -19,3 +19,7 @@ Hw1 - Adam optimizer. Testing different architectures of neural networks.
 Hw2 - Classification. Detection.
 
 Hw3 - Predicting customer hotel rating on review data.
+
+Hw4 - Time series prediction.
+
+Overall grade for the course 9/10.
